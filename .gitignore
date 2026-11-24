@@ -1,0 +1,35 @@
+# Altium Designer
+History/
+__Previews/
+Project Logs for */
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.htm
+*.LOG
+*.LDF
+*.REP
+*.DRR
+*.EXTREP
+*.apr_lib
+*.RUL
+
+# LTspice / Qucs
+*.raw
+*.log
+*.fft
+*.net
+*.op.raw
+
+# Python & MATLAB
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.asv
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
